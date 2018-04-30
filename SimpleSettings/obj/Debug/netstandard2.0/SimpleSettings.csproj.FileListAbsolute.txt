@@ -1,0 +1,9 @@
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\bin\Debug\netstandard2.0\SimpleSettings.deps.json
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\bin\Debug\netstandard2.0\SimpleSettings.dll
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\bin\Debug\netstandard2.0\SimpleSettings.pdb
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.csprojResolveAssemblyReference.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.csproj.CoreCompileInputs.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.AssemblyInfoInputs.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.AssemblyInfo.cs
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.dll
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\SimpleSettings\obj\Debug\netstandard2.0\SimpleSettings.pdb

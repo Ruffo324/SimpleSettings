@@ -1,0 +1,14 @@
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\ConsoleTest.deps.json
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\ConsoleTest.runtimeconfig.json
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\ConsoleTest.runtimeconfig.dev.json
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\ConsoleTest.dll
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\ConsoleTest.pdb
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\SimpleSettings.dll
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\bin\Debug\netcoreapp2.0\SimpleSettings.pdb
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.AssemblyInfo.cs
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.csproj.CopyComplete
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.dll
+C:\!_Files\1_Programming\3_GitHub\SimpleSettings\ConsoleTest\obj\Debug\netcoreapp2.0\ConsoleTest.pdb
