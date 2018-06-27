@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using SimpleSettings.Exceptions;
 
@@ -9,6 +11,7 @@ namespace SimpleSettings
     ///     A setting is stored by a specific key. However, a setting key can hide several types of unequal settings if
     ///     TypeLock has not been activated.
     /// </summary>
+    [Table("SimpleSettings")]
     public class SimpleSetting
     {
         /// <summary>
@@ -28,6 +31,8 @@ namespace SimpleSettings
         /// <summary>
         ///     Key of the Setting
         /// </summary>
+        [Column("Key")]
+        [Key]
         public string Key { get; }
 
         /// <summary>
@@ -35,11 +40,13 @@ namespace SimpleSettings
         ///     If TypeLock is enabled, the setting can store only one type.
         ///     Otherwise the setting can store all valid types.
         /// </summary>
+        [Column("TypeLock")]
         public bool TypeLock { get; set; }
 
         /// <summary>
         ///     A list of all value types set so far. If TypeLock is active, this list contains only one entry.
         /// </summary>
+        [Column("SettingTypes")]
         public List<Type> SettingTypes { get; } = new List<Type>();
 
         /// <summary>
